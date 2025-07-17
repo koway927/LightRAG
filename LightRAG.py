@@ -269,7 +269,7 @@ def main():
     args = parser.parse_args()
     pdf_path = args.pdf_path
     
-    api_key = "AIzaSyBTa0GD3TLJH0Vfl5Us8vOc9tU4ICqRNro"
+    api_key = ""
 
     rag_system = LightRAG(api_key)
 

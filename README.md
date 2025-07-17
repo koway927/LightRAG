@@ -4,7 +4,7 @@ A Python implementation of LightRAG, a knowledge graph-based RAG system that con
 
 ## Citation
 
-If you use this implementation in your research, please cite the original LightRAG paper:
+Here is the original LightRAG paper:
 
 ```bibtex
 @article{guo2024lightrag,
